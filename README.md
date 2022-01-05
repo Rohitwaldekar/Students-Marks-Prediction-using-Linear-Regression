@@ -1,1 +1,1 @@
-#First Data Science Project. Thank YOU !
+#First Data Science Project. Thank you!
